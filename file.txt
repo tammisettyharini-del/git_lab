@@ -1,4 +1,3 @@
-This is my first line!!
 //program to check the greater between two numbers
 
 #include<stdio.h>
@@ -21,4 +20,3 @@ int main()
      printf("b is greater")
   }
 }
-This is my second line!!
