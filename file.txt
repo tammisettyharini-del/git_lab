@@ -13,11 +13,4 @@ int main()
   if(a>b)
   {
 
-     printf("a is grater")
-  }
-  else
-  {
-     printf("b is greater")
-  }
-}
-
+  
