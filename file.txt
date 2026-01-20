@@ -1,3 +1,24 @@
 This is my first line!!
+//program to check the greater between two numbers
 
+#include<stdio.h>
+
+int main()
+{
+  int a,b;
+  printf("Enter the first number");
+  scanf("%d",a);
+  printf("Enter the first number");
+  scanf("%d",b);
+
+  if(a>b)
+  {
+
+     printf("a is grater")
+  }
+  else
+  {
+     printf("b is greater")
+  }
+}
 This is my second line!!
